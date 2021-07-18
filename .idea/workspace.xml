@@ -13,9 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3b7106-a0be-49e6-abdf-404091564613" name="Default Changelist" comment="insta insta">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2d3b7106-a0be-49e6-abdf-404091564613" name="Default Changelist" comment="insta insta" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626614902833</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="insta insta">
+      <created>1626618125115</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626618125115</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -181,10 +186,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1626589613555" />
-    <state x="399" y="96" key="Vcs.Push.Dialog.v2" timestamp="1626614971947">
+    <state x="399" y="96" key="Vcs.Push.Dialog.v2" timestamp="1626618149619">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="399" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1626614971947" />
+    <state x="399" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1626618149619" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1626583869701">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
