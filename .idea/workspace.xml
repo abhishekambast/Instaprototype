@@ -13,97 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3b7106-a0be-49e6-abdf-404091564613" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Circleavatar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/kotlin/com/example/circleavatar/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/android/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/asset/Godfather.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/asset/fist.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/asset/five.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/asset/four.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/asset/four.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/asset/one.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/asset/second.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/asset/third.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/asset/three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/asset/two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/asset/universe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/fonttype/Parisienne-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/lib/Inbox.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/lib/LikePage.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/lib/LogInpage.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/lib/SearchPage.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/lib/SignUpPage.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/lib/home.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/lib/profilepage.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleavatar/pubspec.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="2d3b7106-a0be-49e6-abdf-404091564613" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,6 +135,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1626465740678" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1626587027035">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1626587027035" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1626583869701">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
