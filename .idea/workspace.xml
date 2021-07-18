@@ -13,7 +13,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3b7106-a0be-49e6-abdf-404091564613" name="Default Changelist" comment="" />
+    <list default="true" id="2d3b7106-a0be-49e6-abdf-404091564613" name="Default Changelist" comment="insta insta">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +47,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -72,6 +74,14 @@
       <option name="presentableId" value="Default" />
       <updated>1626366383040</updated>
     </task>
+    <task id="LOCAL-00001" summary="insta insta">
+      <created>1626587450238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626587450238</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,11 +96,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="insta insta" />
+    <option name="LAST_COMMIT_MESSAGE" value="insta insta" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="121" y="0" key="#Project_Structure" timestamp="1626465116985">
+    <state x="393" y="165" key="#Notifications" timestamp="1626590052846">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1626465116985" />
+    <state x="393" y="165" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1626590052846" />
+    <state x="121" y="0" key="#Project_Structure" timestamp="1626593459598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1626593459598" />
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626583395771">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -111,10 +129,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="453" y="87" key="AndroidProcessChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1626462531848" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1626555958809">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1626587405682">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1626555958809" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1626587405682" />
     <state width="1237" height="413" key="GridCell.Tab.0.bottom" timestamp="1626584862750">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -131,14 +149,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="413" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1626584862750" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1626465740678">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1626589613555">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1626465740678" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1626587027035">
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1626589613555" />
+    <state x="399" y="96" key="Vcs.Push.Dialog.v2" timestamp="1626590166248">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1626587027035" />
+    <state x="399" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1626590166248" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1626583869701">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
