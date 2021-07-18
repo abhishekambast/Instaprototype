@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d3b7106-a0be-49e6-abdf-404091564613" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Circleavatar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/kotlin/com/example/circleavatar/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/asset/Godfather.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/asset/fist.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/asset/five.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/asset/four.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/asset/four.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/asset/one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/asset/second.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/asset/third.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/asset/three.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/asset/two.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/asset/universe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/fonttype/Parisienne-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/lib/Inbox.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/lib/LikePage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/lib/LogInpage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/lib/SearchPage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/lib/SignUpPage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/lib/home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/lib/profilepage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circleavatar/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\Abhishek Ambast\.android\avd\Pixel_4_XL_API_30.avd]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vMKBcG4OXqFyFt8uvhp3tqlYiT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\d_evelopment\Circleavatar\circleavatar\fonttype" />
+      <recent name="C:\d_evelopment\Circleavatar\fonttype" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\d_evelopment\Circleavatar\circleavatar\asset" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="circleavatar" type="FlutterRunConfigurationType" factoryName="Flutter" folderName="New Folder">
+      <option name="filePath" value="$PROJECT_DIR$/circleavatar/lib/home.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d3b7106-a0be-49e6-abdf-404091564613" name="Default Changelist" comment="" />
+      <created>1626366383040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626366383040</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1626465116985">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1626465116985" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626583395771">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1626583395771" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1626583703456">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1626583703456" />
+    <state x="399" y="211" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1626464284060">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="211" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1626464284060" />
+    <state x="93" y="93" width="1095" height="495" key="AVDManager" timestamp="1626465338592">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1626465338592" />
+    <state x="453" y="87" key="AndroidProcessChooserDialog" timestamp="1626462531848">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="453" y="87" key="AndroidProcessChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1626462531848" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1626555958809">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1626555958809" />
+    <state width="1237" height="413" key="GridCell.Tab.0.bottom" timestamp="1626584862750">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="413" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1626584862750" />
+    <state width="1237" height="413" key="GridCell.Tab.0.center" timestamp="1626584862750">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="413" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1626584862750" />
+    <state width="1237" height="413" key="GridCell.Tab.0.left" timestamp="1626584862750">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="413" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1626584862750" />
+    <state width="1237" height="413" key="GridCell.Tab.0.right" timestamp="1626584862750">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="413" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1626584862750" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1626465740678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1626465740678" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1626583869701">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1626583869701" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1626573120361">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1626573120361" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/circleavatar/lib/SearchPage.dart</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
