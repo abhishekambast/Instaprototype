@@ -13,9 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3b7106-a0be-49e6-abdf-404091564613" name="Default Changelist" comment="new">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2d3b7106-a0be-49e6-abdf-404091564613" name="Default Changelist" comment="new" />
     <list id="b3e98a38-966a-4636-ba69-5bbdae614014" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626619418166</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new">
+      <created>1626620177966</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626620177966</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -246,10 +251,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="471" y="210" key="VCS.EditChangelistDialog/0.0.1280.680@0.0.1280.680" timestamp="1626619335500" />
-    <state x="399" y="96" key="Vcs.Push.Dialog.v2" timestamp="1626619461695">
+    <state x="399" y="96" key="Vcs.Push.Dialog.v2" timestamp="1626620201502">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="399" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1626619461695" />
+    <state x="399" y="96" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1626620201502" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1626583869701">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
